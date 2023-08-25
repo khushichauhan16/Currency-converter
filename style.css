@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    overflow: hidden;
+}
+.main{
+    box-shadow: cyan 0px 0px 10px;
+}
+span{
+    padding-top: .5rem;
+    width: 10rem;
+    height: 3rem;
+    text-align: center;
+}
+form{
+    padding: 10px;
+}
+h2,h1{
+    font-family: 'Lobster', cursive;
+}
+input{
+    width: 125px;
+    border-radius: 4px;
+}
+.btn:hover {
+    background-color: cyan;
+    cursor: pointer;
+    box-shadow: cyan 0px 0px 40px;
+}
